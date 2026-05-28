@@ -11,7 +11,7 @@
 <h3 align="left">💼 About Me:</h3>
 
 <ul>
-  <li>🚀 2+ years experience in Backend Development (Node.js, Express.js)</li>
+  <li>🚀 2.6 years experience in Backend Development (Node.js, Express.js)</li>
   <li>⚙️ Built scalable REST APIs & Microservices architecture</li>
   <li>🔐 Experienced in JWT Authentication & RBAC systems</li>
   <li>🛒 Worked on Shopify, WordPress & WooCommerce projects</li>
