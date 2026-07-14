@@ -3,7 +3,7 @@
 
 <p align="center">
   📫 Reach me: <strong>ajaysingh567812@gmail.com</strong><br/>
-  🔗 LinkedIn: https://linkedin.com/in/ajaysingh01072000
+  🔗 LinkedIn: https://www.linkedin.com/in/ajay-singh01072000/
 </p>
 
 ---
